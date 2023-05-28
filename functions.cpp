@@ -10,3 +10,11 @@ void print_char(int num, char c)
         std::cout << c;
     }
 }
+
+int handle_input()
+{
+    int n;
+    std::cout << "Enter n: ";
+    std::cin >> n;
+    return n;
+}
