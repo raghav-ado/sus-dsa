@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-    int n = handle_input();
+    int n = getUserInput<int>("Enter a int value: ");
     int temp = 0;
     for (int i = 1; i <= n; i++)
     {

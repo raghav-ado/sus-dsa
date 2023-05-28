@@ -11,18 +11,15 @@ void print_char(int num, char c)
     }
 }
 
-int handle_input()
-{
-    int n;
-    std::cout << "Enter n: ";
-    std::cin >> n;
-    return n;
-}
-
 void print_nums(int num)
 {
     for (int i = 1; i <= num; i++)
     {
         std::cout << i;
     }
+}
+
+char getCharacterFromAscii(int asciiCode)
+{
+    return static_cast<char>(asciiCode);
 }

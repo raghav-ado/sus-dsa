@@ -1,9 +1,10 @@
 /*
 PATTERN:
-1      1
-12    12
-123  123
-12341234
+A
+AB
+ABC
+ABCD
+ABCDE
 */
 
 #include "../sussyheader.h"
@@ -13,14 +14,16 @@ using namespace std;
 int main()
 {
     int n = getUserInput<int>("Enter a int value: ");
-    for (int i = 1; i <= n; i++)
-    {
-        const int spaces = 2 * (n - i);
+    const int ASCII_A_CODE = 65;
 
-        print_nums(i);
-        print_char(spaces, ' ');
-        print_nums(i);
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j <= i; j++)
+        {
+            cout << getCharacterFromAscii(ASCII_A_CODE + j);
+        }
         cout << endl;
     }
+
     return 0;
 }
