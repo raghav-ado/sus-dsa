@@ -5,7 +5,7 @@ A repository where I stash all my delightfully sussy DSA shenanigans.
 ## Present "Progress" of Sus-DSA Madness
 Because who needs to actually finish things? Here's the latest evidence of my chaotic progress:
 
-![Progress](https://img.shields.io/badge/Patterns-16%2F22-green)
+![Progress](https://img.shields.io/badge/Patterns-18%2F22-green)
 
 
 ## The Unending Saga of Sussy DSA Marvels
