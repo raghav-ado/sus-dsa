@@ -1,2 +1,3 @@
 # sus-dsa
-A repo where I keep my dsa fun stuff
+
+A repo where I keep my sussy dsa fun stuff
