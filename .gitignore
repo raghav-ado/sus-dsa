@@ -1,0 +1,4 @@
+# Ignore C++ output files
+*.exe
+*.out
+*.o
