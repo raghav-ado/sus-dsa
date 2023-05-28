@@ -1,3 +1,17 @@
+/*
+PATTERN:
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
+*/
+
 #include "../sussyheader.h"
 #include "../functions.h"
 using namespace std;
