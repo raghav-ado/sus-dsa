@@ -18,3 +18,11 @@ int handle_input()
     std::cin >> n;
     return n;
 }
+
+void print_nums(int num)
+{
+    for (int i = 1; i <= num; i++)
+    {
+        std::cout << i;
+    }
+}
