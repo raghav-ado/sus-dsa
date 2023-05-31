@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include "functions.h"
 // Add any other standard library headers you commonly use
 
 #endif // SUSSY_H
