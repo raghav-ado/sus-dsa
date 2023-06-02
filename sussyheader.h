@@ -7,4 +7,6 @@
 #include "functions.h"
 // Add any other standard library headers you commonly use
 
+typedef long long int thiccSusIntuwu;
+
 #endif // SUSSY_H
