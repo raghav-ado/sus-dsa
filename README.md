@@ -7,7 +7,7 @@ A repository where I stash all my delightfully sussy DSA shenanigans.
 Because who needs to actually finish things? Here's the latest evidence of my chaotic progress:
 
 - :white_check_mark: Patterns: ![100%](https://geps.dev/progress/100)
-- :trollface: Basic Sus Maths: ![1/7](https://geps.dev/progress/15)
+- :trollface: Basic Sus Maths: ![4/7](https://geps.dev/progress/57)
 
 ## The Unending Saga of Sussy DSA Marvels
 
